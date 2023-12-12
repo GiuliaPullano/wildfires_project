@@ -1,9 +1,10 @@
 # wildfires_project
 
 This repository is connected to the work titled 
+
 "Disruption of outdoor activities caused by wildfire smoke shapes circulation of respiratory pathogens"
  
- https://www.medrxiv.org/content/10.1101/2023.07.09.23292078v1
+Link: https://www.medrxiv.org/content/10.1101/2023.07.09.23292078v1
 
 The codes are in the Codes directory, as so:
 
