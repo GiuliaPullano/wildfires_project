@@ -1,16 +1,16 @@
 # wildfires_project
 
-This repository is connected to the work titled 
+This repository is associated with the research study:
 
-"Disruption of outdoor activities caused by wildfire smoke shapes circulation of respiratory pathogens"
- 
+"Disruption of outdoor activities caused by wildfires increases disease circulation"
+
 Link: https://doi.org/10.1101/2024.08.08.24311678
 
-The codes are in the Codes directory, as so:
+The Python scripts utilized in this study are organized in the Data folder as follows:
 
-1. select_counties code analyzes Air Quality Index for all US counties and selects those hit and not hit by the wildfire event in Sept 2020
-2. Figure_1 code produces Figure 1 in the main text of the manuscript 
-3. Regression_discontinuity_code analyzes the disruption on the mobility index and produces an estimate of the shift in behavior
-4. Model_disruption code simulates the effect of this behavioral pattern into a SIR model as well as the damping effect of mask usage.
+select_counties script: Analyzes the Air Quality Index (AQI) for all U.S. counties and identifies those affected and unaffected by the September 2020 wildfire event.
+Figure_1 script: Generates Figure 1 from the manuscript's main text.
+Regression_discontinuity script: Examines the disruption in mobility patterns and estimates the resulting behavioral shift.
+Model_disruption script: Simulates the effect of seasonal indoor activity patterns and their disruptions within an SIR model, also accounting for the potential mitigating effects of mask usage.
 
-The Data folder contains all the data needed to run the different codes.
+All datasets used in the analysis are also available in the Data folder.
